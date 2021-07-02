@@ -1,0 +1,1 @@
+sudo snap install ngrok && ngrok http 8000
